@@ -1,1 +1,3 @@
-# income-tax-calculator
+### income-tax-calculator
+
+Project refactoring
